@@ -1,0 +1,13 @@
+[server]
+    host = "localhost"
+    port = "8080"
+
+[db]
+    host = "localhost"
+    port = "5547"
+    user = "myuser"
+    password = "Password123!"
+    database = "mydb"
+
+[logging]
+    level = "debug"
